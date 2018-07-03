@@ -9,8 +9,8 @@ except ImportError:
     from distutils.core import setup
 
 setup (
-    name = 'ingresse-krakenio',
-    version = '0.1.0',
+    name = 'krakenio',
+    version = '0.1.1',
     description = 'Froked Kraken.io API Client',
     long_description = 'With this official Python client you can plug into the power and speed of Kraken.io Image Optimizer.',
     url = 'https://github.com/ingresse/kraken-python',
